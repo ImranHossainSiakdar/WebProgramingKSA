@@ -1,0 +1,21 @@
+{
+    "name": "Imran Hossain Sikdar",
+    "age": 24,
+    "gender": "male",
+    "contact": {
+      "email": "imransikdargub@gmail.com",
+      "phone": "01966288235"
+    },
+    "address": {
+      "city": "Dhaka",
+      "country": "Bangladesh"
+    },
+    "skills": ["Web Technlogies: HTML, CSS", "Programming language: Java, C", "Networking: Basic "],
+    "experience": 1,
+    "education": {
+      "degree": "B.Sc Computer Science",
+      "institution": "Green University",
+      "year": 2024
+    }
+  }
+  
